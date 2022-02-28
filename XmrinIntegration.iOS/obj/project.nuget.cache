@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "Q5T8Qm2Iv37b43Tn9I3zSlg7Glh0AT6MerpKhFjGX5vIyzPonzycn3jrDFuSCLxfq8wI5LWRv0k1AAxjSzFwlw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\rushd\\source\\repos\\XmrinIntegration\\XmrinIntegration.iOS\\XmrinIntegration.iOS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\rushd\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\xamarin.essentials\\1.6.1\\xamarin.essentials.1.6.1.nupkg.sha512",
+    "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\xamarin.forms\\5.0.0.2012\\xamarin.forms.5.0.0.2012.nupkg.sha512"
+  ],
+  "logs": []
+}

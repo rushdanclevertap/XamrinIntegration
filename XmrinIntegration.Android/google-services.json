@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "223204911632",
+    "project_id": "xamrindemo-68b00",
+    "storage_bucket": "xamrindemo-68b00.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:223204911632:android:c0c5bde8c09e6d34a9b895",
+        "android_client_info": {
+          "package_name": "com.companyname.rushdanxamrin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "223204911632-tr2bh1lod4o3vvuo6447fco3dkr4ueir.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA_qFwzY0cCXnD8F8I71vfrTR33PivYdyg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "223204911632-tr2bh1lod4o3vvuo6447fco3dkr4ueir.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:223204911632:android:0e46260f1fd52b01a9b895",
+        "android_client_info": {
+          "package_name": "com.companyname.xmrinintegration"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "223204911632-tr2bh1lod4o3vvuo6447fco3dkr4ueir.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA_qFwzY0cCXnD8F8I71vfrTR33PivYdyg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "223204911632-tr2bh1lod4o3vvuo6447fco3dkr4ueir.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
